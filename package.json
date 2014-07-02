@@ -1,0 +1,13 @@
+{
+  "name": "iconic-svg-resizer",
+  "description": "",
+  "version": "0.0.1",
+  "main": "svg-resizer.js",
+  "dependencies": {
+    "xml2js": "~0.4.2",
+    "yargs": "^1.2.1"
+  },
+  "devDependencies": {
+
+  }
+}
